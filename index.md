@@ -6,7 +6,7 @@
 ### 博客动态
 
 ### 联系方式
-邮箱： Email：glchen.cv@gmail.com
+Email：glchen.cv@gmail.com
 
 
 
