@@ -5,14 +5,16 @@
 </section>
 
 <div id="navbar">
-    <ul class="nav navbar-nav" id="mainNav">
-	<li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
-	<li class=""><a href="#aboutUs" class="scroll-link">About Me</a></li>
-	<li class=""><a href="#service" class="scroll-link">Skills</a></li>
-	<li class=""><a href="#experience" class="scroll-link">Experience</a></li>
-	<li class=""><a href="#Portfolio" class="scroll-link">Projects</a></li>
-	<li class=""><a href="#contact" class="scroll-link">Contact</a></li>
-    </ul>
+	<ul class="nav navbar-nav" id="mainNav">
+		::before
+		<li class="active"><a href="#hero_section" class="scroll-link">Home</a></li>
+		<li class=""><a href="#aboutUs" class="scroll-link">About Me</a></li>
+		<li class=""><a href="#service" class="scroll-link">Skills</a></li>
+		<li class=""><a href="#experience" class="scroll-link">Experience</a></li>
+		<li class=""><a href="#Portfolio" class="scroll-link">Projects</a></li>
+		<li class=""><a href="#contact" class="scroll-link">Contact</a></li>
+		::after
+	</ul>
 </div>
 
 <section id="aboutUs"><!--Aboutus-->
